@@ -1,0 +1,6 @@
+# goforge/.gitignore
+/bin/
+*.test
+*.out
+coverage.*
+.env
